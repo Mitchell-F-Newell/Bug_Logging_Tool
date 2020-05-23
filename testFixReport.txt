@@ -1,0 +1,5 @@
+Bug Report:
+Product bug is in: Pac Man Game
+The Assigned developer: MNewell
+Date bug was created: 2017-11-17
+Date the bug was fixed: 2017-11-17

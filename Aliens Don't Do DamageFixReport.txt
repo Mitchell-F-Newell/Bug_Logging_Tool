@@ -1,0 +1,5 @@
+Bug Report:
+Product bug is in: Space Invaders Game
+The Assigned developer: null
+Date bug was created: 2017-11-17
+Date the bug was fixed: 2017-11-17
